@@ -1,0 +1,32 @@
+label {
+  display: block;
+}
+body {
+  padding-left: 20%;
+  padding-right: 20%;
+  font-family: sans-serif;
+  background-image: url(https://furchguitars.com/wp-content/uploads/2018/08/o-nas.jpg);
+  font-size: medium;
+}
+form {
+  background-color: #c0c0c0;
+  padding: 50px 50px 50px 50px;
+  border-radius: 10%;
+}
+#button-area {
+  float: left;
+  width: 50%;
+  height: 50%;
+}
+input {
+  width: 100%;
+}
+textarea {
+  width: 100%;
+}
+h1 {
+  color: #ffffff;
+}
+#description {
+  color: #ffffff;
+}
